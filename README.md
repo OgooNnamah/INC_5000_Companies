@@ -24,10 +24,10 @@ SQL concepts such as;
 - 𝗦𝗼𝗿𝘁𝗶𝗻𝗴 & 𝗚𝗿𝗼𝘂𝗽𝗶𝗻𝗴- Group By, Order By, Having
 - Retrieval and Filtering- Select, From, Where, Limit, Case, And etc
 
-# Data transformation
+# 4. Data transformation
 Imported the files into MYSQL through the Table Import wizard
 
-# Data Analysis
+# 5. Data Analysis
 Created queries on my SQL Workbench, to answer the objectives listed above. Results of these queries shown below are included in the attached file titled "AnalyzedINC 5000 Comapnies Queries".
 
 
@@ -49,8 +49,8 @@ Created queries on my SQL Workbench, to answer the objectives listed above. Resu
 
 
 
-# Recommendation
+# 6. Recommendation
 
 
-# 4. Final Notes
+# 7. Final Notes
 Thank you for exploring this repository.
