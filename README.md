@@ -28,7 +28,7 @@ SQL concepts such as;
 Imported the files into MYSQL through the Table Import wizard
 
 # 5. Data Analysis
-Created queries on my SQL Workbench, to answer the objectives listed above. Results of these queries shown below are included in the attached file titled "AnalyzedINC 5000 Comapnies Queries".
+Created queries on my SQL Workbench, to answer the objectives listed above. Results of these queries shown below are included in the attached file titled "AnalyzedINC 5000 Comapnies Queries with Results".
 
 
 <img width="883" height="758" alt="image" src="https://github.com/user-attachments/assets/d7aef3e1-460f-49c2-8ed9-52e046b5ea28" />
